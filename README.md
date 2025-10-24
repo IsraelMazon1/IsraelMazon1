@@ -3,11 +3,15 @@
 🎓 **Computer Science Senior** at Purdue University Indianapolis  
 💡 Interested in **Artificial Intelligence**, **Machine Learning**, **FinTech**, and **Data Engineering**  
 
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-mazon-740147206)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/IsraelMazon1)
+
 ---
 
 ### 🧠 About Me
 I'm passionate about building intelligent systems that bridge **data-driven insights** with **real-world impact**.  
-Currently exploring advanced topics in **ML model optimization**, **financial systems**, and **data infrastructure** — always aiming to make technology efficient, transparent, and accessible.
+Currently exploring advanced topics in **ML model optimization**, **financial systems**, and **data infrastructure** — 
 
 ---
 
@@ -32,7 +36,7 @@ Currently exploring advanced topics in **ML model optimization**, **financial sy
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - 🧩 **FIX Message Parser** — A Python-based tool designed for high-throughput parsing and validation of financial FIX protocol messages.  
 - 🤖 **Rocket League Bot** — An AI agent that learns game mechanics to play Rocket League autonomously using computer vision and RL-inspired heuristics.
@@ -59,8 +63,6 @@ When I’m not programming, you’ll probably find me:
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-mazon-740147206)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/IsraelMazon1)
+
 
 
