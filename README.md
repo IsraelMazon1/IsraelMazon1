@@ -41,8 +41,6 @@ Currently exploring advanced topics in **ML model optimization**, **financial sy
 - 🧩 **FIX Message Parser** — A Python-based tool designed for high-throughput parsing and validation of financial FIX protocol messages.  
 - 🤖 **Rocket League Bot** — An AI agent that learns game mechanics to play Rocket League autonomously using computer vision and RL-inspired heuristics.
 
-*(Links coming soon!)*
-
 ---
 
 ### 🔭 Currently Working On
