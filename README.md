@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Israel Mazon
 
-🎓 **Computer Science Senior** at Purdue University Indianapolis  
-💡 Interested in **Artificial Intelligence**, **Machine Learning**, **FinTech**, and **Data Engineering**  
+**Computer Science Senior** at Purdue University Indianapolis  
+Interested in **Artificial Intelligence**, **Machine Learning**, **FinTech**, and **Data Engineering**  
 
-### 🌐 Connect With Me
+### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-mazon-740147206)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/IsraelMazon1)
 
 ---
 
-### 🧠 About Me
+### About Me
 I'm passionate about building intelligent systems that bridge **data-driven insights** with **real-world impact**.  
 Currently exploring advanced topics in **ML model optimization**, **financial systems**, and **data infrastructure** — 
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
@@ -54,7 +54,6 @@ Currently exploring advanced topics in **ML model optimization**, **financial sy
 ---
 
 ### 🌱 Beyond Code
-When I’m not programming, you’ll probably find me:
 - 🧗‍♂️ Rock climbing  
 - 🍞 Baking  
 - 🚗 Playing **Rocket League**
