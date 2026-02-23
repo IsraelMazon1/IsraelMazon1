@@ -33,22 +33,22 @@ Currently exploring advanced topics in **ML model optimization**, **financial sy
 
 ### Featured Projects
 
-- 🧩 **FIX Message Parser** — A Python-based tool designed for high-throughput parsing and validation of financial FIX protocol messages.  
-- 🤖 **Rocket League Bot** — An AI agent that learns game mechanics to play Rocket League autonomously using computer vision and RL-inspired heuristics.
+-  **FIX Message Parser** — A Python-based tool designed for high-throughput parsing and validation of financial FIX protocol messages.  
+-  **Stock Market Risk Analysis and Visualizer** — Interactive portfolio risk modeling dashboard with rolling VaR/CVaR, backtesting, distribution diagnostics, and live weight-adjusted analysis.
 
 ---
 
-### 🔭 Currently Working On
-- Expanding my **Machine Learning** portfolio with hands-on projects in FinTech and data analytics  
-- Exploring **real-time data pipelines** and **model deployment** with Docker and cloud environments  
+### Currently Working On
+- Expanding my **Embedded systems** portfolio 
+- Exploring **real-time data pipelines** 
 
-### 📚 Currently Learning
-- Advanced **TensorFlow** and **model interpretability** techniques  
+### Currently Learning
+- Advanced **Embedded Systems**  
 - **Low-latency trading systems** and **event-driven architectures**
 
 ---
 
-### 🌱 Beyond Code
+### Beyond Code
 - 🧗‍♂️ Rock climbing  
 - 🍞 Baking  
 - 🚗 Playing **Rocket League**
