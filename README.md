@@ -1,6 +1,6 @@
 # Hi, I'm Israel Mazon
 
-**Computer Science Senior** at Purdue University Indianapolis  
+**Computer Science** at Purdue University Indianapolis  
 Interested in **Artificial Intelligence**, **Machine Learning**, **FinTech**, and **Data Engineering**  
 
 ### Connect With Me
